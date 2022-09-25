@@ -97,4 +97,4 @@ I’m a full-stack engineer with experience in various open-source frameworks su
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
