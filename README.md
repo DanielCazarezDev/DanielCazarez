@@ -80,7 +80,7 @@ I’m a full-stack engineer with experience in various open-source frameworks su
 
 
 ## Github Stats : 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielCazarezDev&count_private=true&show_icons=true&theme=radical)
+![Daniel's GitHub stats](https://github-readme-stats-danielcazarezdev.vercel.app/api?username=DanielCazarezDev&count_private=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxlNunez&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
