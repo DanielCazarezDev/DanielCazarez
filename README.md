@@ -67,7 +67,11 @@ I’m a full-stack engineer with experience in various open-source frameworks su
 
 ### Back End & Tools  
 <div align="center">  
-  
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" height="50" /></a>  
+<a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" height="50" /></a>  
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="50" /></a>  
+<a href="https://trello.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="Trello" height="50" /></a> 
+<a href="https://yarnpkg.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="Yarn" height="50" /></a> 
 </div>
 
 </td></tr></table>  
