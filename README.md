@@ -79,16 +79,11 @@ I’m a full-stack engineer with experience in various open-source frameworks su
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## Github Stats : 
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielCazarezDev&count_private=true&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api?username=DanielCazarezDev&count_private=true&show_icons=true&hide_border=true" align="left" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxlNunez&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCazarezDev&hide_border=true&layout=compact" align="left" />
-
-</td></tr></table>  
 
 <br/>  
 
